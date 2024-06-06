@@ -19,6 +19,5 @@ public class geometriaPlana {
     }
 
     public static void main(String[] args) {
-        
     }
 }
